@@ -17,4 +17,22 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 30px;
+}
+.featurescentra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.row>*{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.matop{
+    padding-top: 40px;
+}
+#marlp{
+    padding-left: 15px;
+    padding-right: 10px;
 }
