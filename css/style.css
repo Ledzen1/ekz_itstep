@@ -1,3 +1,12 @@
 #r5px{
     padding-right: 10px;
 }
+body{
+    background-color: white;
+}
+.jfbb{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+}
