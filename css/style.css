@@ -10,3 +10,11 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+.line{
+    border: 1px solid gray;
+}
+.centergal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
