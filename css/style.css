@@ -36,3 +36,30 @@ body{
     padding-left: 15px;
     padding-right: 10px;
 }
+.matof{
+    margin-top: 30px;
+}
+.wsp{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+}
+.arobn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#padfol{
+    margin-top: 50px;
+}
+.iconssssf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+#ccc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
